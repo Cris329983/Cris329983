@@ -9,6 +9,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Cris329983/configure-ad)
   - [Network File Shares and Permissions](https://github.com/Cris329983/azure-network-protocols)
 - <b>Other Personal Projects</b>
+  - [PDF Files Wont Open](https://github.com/Cris329983/pdf)
 
 
 
