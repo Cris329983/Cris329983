@@ -10,6 +10,7 @@
   - [Network File Shares and Permissions](https://github.com/Cris329983/azure-network-protocols)
 - <b>Other Personal Projects</b>
   - [PDF Files Wont Open](https://github.com/Cris329983/pdf)
+  - [Slow Laptop](https://github.com/Cris329983/slowlaptop1)
 
 
 
